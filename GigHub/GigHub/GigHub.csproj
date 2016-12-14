@@ -190,6 +190,10 @@
     <Compile Include="Migrations\201612140142434_populacegenre.Designer.cs">
       <DependentUpon>201612140142434_populacegenre.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201612140423563_Add fkey prop to Gig.cs" />
+    <Compile Include="Migrations\201612140423563_Add fkey prop to Gig.Designer.cs">
+      <DependentUpon>201612140423563_Add fkey prop to Gig.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -281,6 +285,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201612140142434_populacegenre.resx">
       <DependentUpon>201612140142434_populacegenre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612140423563_Add fkey prop to Gig.resx">
+      <DependentUpon>201612140423563_Add fkey prop to Gig.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
