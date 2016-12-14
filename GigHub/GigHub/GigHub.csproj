@@ -185,6 +185,10 @@
     <Compile Include="Migrations\201612140130422_Override.Designer.cs">
       <DependentUpon>201612140130422_Override.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201612140142434_populacegenre.cs" />
+    <Compile Include="Migrations\201612140142434_populacegenre.Designer.cs">
+      <DependentUpon>201612140142434_populacegenre.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -271,6 +275,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201612140130422_Override.resx">
       <DependentUpon>201612140130422_Override.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201612140142434_populacegenre.resx">
+      <DependentUpon>201612140142434_populacegenre.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

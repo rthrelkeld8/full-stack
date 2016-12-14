@@ -71,3 +71,4 @@ e:\fullstack\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialModel.resources
 e:\fullstack\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
 E:\fullstack\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 E:\fullstack\GigHub\GigHub\obj\Debug\GigHub.Migrations.Override.resources
+E:\fullstack\GigHub\GigHub\obj\Debug\GigHub.Migrations.populacegenre.resources
